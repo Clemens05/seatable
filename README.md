@@ -1,1 +1,0 @@
-# SeaTable for NodeJS
